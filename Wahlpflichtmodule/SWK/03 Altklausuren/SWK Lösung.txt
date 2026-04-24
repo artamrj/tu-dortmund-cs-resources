@@ -1,0 +1,57 @@
+1.5 OCL Anwendung
+
+
+1.
+
+context Person
+
+inv self.supervisor.grade.value > self.grade.value
+
+
+2.
+
+context Employee
+
+inv age > 50 implies soSecNr < 10000000
+
+
+3. 
+
+context Employee
+
+inv self.isMarried implies Set('III', 'IV', 'V') -> includes(self.taxClass)
+
+
+4.
+
+context PhDStudent
+
+inv grade.value
+
+
+5.
+
+context Employee
+
+inv wage >=0
+
+
+6.
+
+context Student
+
+inv student::allInstances() -> isUnique(matNr)
+
+
+7.
+
+context Employee
+
+inv self.supervised -> select(ele.isKindOf(Employee)) -> collect(wage) -> sum()
+
+
+8.
+
+context Student
+
+inv Student::allInstances() -> forAll(s,t|s.matNr
