@@ -1,0 +1,21 @@
+SWK Gedächtnisprotokoll 1. Klausur 2013
+
+- Welche beiden Arten von Softwarestandards gibt es?
+
+- ISO9001/CMMI auf Stichpunkte zuordnen (auf Keywords achten!)
+
+- CMMI-Profil (siehe erste Hausübung)
+
+- Zyklom. Komplexität von zwei Graphen bestimmen
+
+- V-Modell
+
+- Testmanagement (bottom-up, top-down usw.)
+
+- aus Programmcode Kontrollflussdiagramm zeichnen, Anweisungsüberdeckung berechnen, Testfälle für Zweig- und einfache Bedingungsüberdeckung angeben
+
+- Testfälle für minimale Mehrfachbed-überdeckung und Grenze-Inneres
+
+- Algebra für Prioritätenqueue angeben
+
+- Syntaxfehler in OCL-Befehlen finden und korrigieren

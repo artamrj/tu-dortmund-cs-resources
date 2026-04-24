@@ -1,0 +1,39 @@
+﻿// Da wird noch so einiges Fehlen, mehr fällt mir aber leider nicht mehr ein.
+// [04.03.14] Einige Ergänzungen
+
+SWK Gedächtnisprotokoll 26.02.2014 (1. Klausur)
+
+Aufgabe 1: OCL
+	Ein Klassendiagramm war gegeben
+	Verschiedene Sachverhalte sollten in OCL umwandelt werden
+
+Aufgabe 2: MVC
+	Pfeile zwischen Model <-> Controller <-> View einzeichnen.
+
+Aufgabe 3 Qualitätsstandards:
+	3.1 Welche zwei Arten von Qualitätsstandards gibt es?
+	3.2 Nennen Sie zwei Prozessstandards und geben Sie kurz die Grundidee / den Zweck an.
+
+Aufgabe 4: EMF
+	Ein EMF Klassendiagramm war gegeben
+	4.1 Wofür steht die Raute? (war am Ende einer Verbindungslinie und ausgefüllt)
+	4.2 Wie wird sie in der Annotation angegeben?
+	4.1 Wofür steht die 2 in "2..*"?
+	4.2 Wie wird sie in der Annotation angegeben?
+
+Aufgabe 5: Testen I
+	5.1 Flussdiagramm zu Code zeichnen
+	5.2 Einfache Bedingungsüberdeckung die keine Zweigüberdeckung ist.
+	5.3 Zweigüberdeckung
+	5.4 Anweisungsüberdeckung
+	5.5 Minimal bestimmende Mehrfachbedingsüberdeckung
+
+Aufgabe 6: Zyklomatische Komplexität
+	Zyklomatische Komplexität zu zwei Graphen bestimmen.
+
+Aufgabe 7: Testen II
+	7.1 Bestimmung Inneres-Äußeres-Überdeckung
+	7.2 ???
+
+Aufgabe 8: Algebraische Spezifikation
+	Algebra um Constraints erweitern
